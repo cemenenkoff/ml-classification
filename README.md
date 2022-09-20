@@ -12,7 +12,7 @@ ____
 
 The models developed in the `classification.ipynb` explore classifying numbers from the [MNIST database](https://en.wikipedia.org/wiki/MNIST_database), a large database of handwritten digits that are commonly used for training various image processing systems.
 
-This database has been used so often it is sometimes called the "hello world" of machine learning classification. I hope you enjoy the tutorial, and if you have any feedback, please feel free to send me an email or Teams message!
+This database has been used so often it is sometimes called the "hello world" of machine learning classification. I hope you enjoy the tutorial, and if you have any feedback, please feel free to send me a message!
 ____
 ![100 digits](./images/100-digits.png)
 ![5s and 3s](./images/error-analysis-digits-plot.png)
