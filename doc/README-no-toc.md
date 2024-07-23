@@ -1,21 +1,11 @@
 # Machine Learning Classification
 Look to `notebooks/classification.ipynb` for a full, general tutorial on machine learning classification.
 
-<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+[TOC]
 
-- [Machine Learning Classification](#machine-learning-classification)
-  - [1. Introduction](#1-introduction)
-  - [2. Figures Created in the Tutorial](#2-figures-created-in-the-tutorial)
-  - [3. References](#3-references)
-  - [4. Appendix: Setup for New Developers](#4-appendix-setup-for-new-developers)
-
-<!-- TOC end -->
-
-<!-- TOC --><a name="1-introduction"></a>
 ## 1. Introduction
 The models developed in the `classification.ipynb` explore classifying numbers from the [MNIST database](https://en.wikipedia.org/wiki/MNIST_database), a large database of handwritten digits that are commonly used for training various image processing systems. The database has been used so often it is sometimes called the "hello world" of machine learning classification.
 
-<!-- TOC --><a name="2-figures-created-in-the-tutorial"></a>
 ## 2. Figures Created in the Tutorial
 Data science insights are derived through visualizations. Below, you can see some of the interesting figures you'll be able to generate from the notebook. I hope you enjoy the tutorial. 🌞
 
@@ -41,14 +31,12 @@ Data science insights are derived through visualizations. Below, you can see som
 
 ![adding-noise-to-a-digit-and-then-removing](img/adding-noise-to-a-digit-and-then-removing.png)
 
-<!-- TOC --><a name="3-references"></a>
 ## 3. References
 1. [Géron, A. (2019, October 15). Classification. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd ed.) (pp. 85-108). O’Reilly Media.](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 2. [Aurelion Geron's Personal GitHub Notebook on Classification](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)
 3. [The MNIST Database's Wikipedia Page](https://en.wikipedia.org/wiki/MNIST_database)
 4. [Professor Yann LeCun's Breakdown of Algorithms Applied to the MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
 
-<!-- TOC --><a name="4-appendix-setup-for-new-developers"></a>
 ## 4. Appendix: Setup for New Developers
 If you are fairly new to Python programming, I'd recommend the setting up this project by following these steps. If you want more in depth knowledge about environment setup, I'd recommend you read [my tutorial on interfacing with the computer like a software developer](https://github.com/cemenenkoff/python-essentials-for-stem-wizards).
 

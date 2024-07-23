@@ -1,5 +1,3 @@
 {
-    "cSpell.words": [
-        "sklearn"
-    ]
+    "files.autoSave": "onFocusChange"
 }

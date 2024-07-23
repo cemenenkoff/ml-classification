@@ -1,0 +1,8 @@
+__pycache__
+venv
+runs
+models
+tests
+notebooks
+*.pkl
+*.ipynb
