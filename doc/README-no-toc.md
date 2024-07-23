@@ -9,27 +9,49 @@ The models developed in the `classification.ipynb` explore classifying numbers f
 ## 2. Figures Created in the Tutorial
 Data science insights are derived through visualizations. Below, you can see some of the interesting figures you'll be able to generate from the notebook. I hope you enjoy the tutorial. 🌞
 
-![an-example-digit](img/an-example-digit.png)
+<p align="center">
+  <img src="img/an-example-digit.png", width="400"/>
+</p>
 
-![digit-frequency](img/digit-frequency.png)
+<p align="center">
+  <img src="img/digit-frequency.png", width="400"/>
+</p>
 
-![precision-and-recall-vs-threshold](img/precision-and-recall-vs-threshold.png)
+<p align="center">
+  <img src="img/precision-and-recall-vs-threshold.png", width="400"/>
+</p>
 
-![roc-curve](img/roc-curve.png)
+<p align="center">
+  <img src="img/roc-curve.png", width="400"/>
+</p>
 
-![recall-vs-fallout-comparison](img/recall-vs-fallout-comparison.png)
+<p align="center">
+  <img src="img/recall-vs-fallout-comparison.png", width="400"/>
+</p>
 
-![100-digits](img/100-digits.png)
+<p align="center">
+  <img src="img/100-digits.png", width="400"/>
+</p>
 
-![confusion-matrix-absolute](img/confusion-matrix-absolute.png)
+<p align="center">
+  <img src="img/confusion-matrix-absolute.png", width="400"/>
+</p>
 
-![confusion-matrix-rates](img/confusion-matrix-rates.png)
+<p align="center">
+  <img src="img/confusion-matrix-rates.png", width="400"/>
+</p>
 
-![error-analysis-5-vs-3](img/error-analysis-5-vs-3.png)
+<p align="center">
+  <img src="img/error-analysis-5-vs-3.png", width="400"/>
+</p>
 
-![adding-noise-to-a-digit](img/adding-noise-to-a-digit.png)
+<p align="center">
+  <img src="img/adding-noise-to-a-digit.png", width="400"/>
+</p>
 
-![adding-noise-to-a-digit-and-then-removing](img/adding-noise-to-a-digit-and-then-removing.png)
+<p align="center">
+  <img src="img/adding-noise-to-a-digit-and-then-removing.png", width="400"/>
+</p>
 
 ## 3. References
 1. [Géron, A. (2019, October 15). Classification. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd ed.) (pp. 85-108). O’Reilly Media.](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
