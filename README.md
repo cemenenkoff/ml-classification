@@ -1,5 +1,5 @@
 # Machine Learning Classification
-Look to `notebooks/classification.ipynb` for a full, general tutorial on machine learning classification.
+Look to [`notebooks/classification.ipynb`](notebooks/classification.ipynb) for a full, general tutorial on machine learning classification.
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
