@@ -1,19 +1,21 @@
-# Machine Learning Classification
+<p align="center">
+  <img src="img/readme/banner-transparent.png"/>
+</p>
+
 Look to [`notebooks/classification.ipynb`](notebooks/classification.ipynb) for a full, general tutorial on machine learning classification.
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [Machine Learning Classification](#machine-learning-classification)
-  - [1. Introduction](#1-introduction)
-  - [2. Figures Created in the Tutorial](#2-figures-created-in-the-tutorial)
-  - [3. References](#3-references)
-  - [4. Appendix: Setup for New Developers](#4-appendix-setup-for-new-developers)
+- [1. Introduction](#1-introduction)
+- [2. Figures Created in the Tutorial](#2-figures-created-in-the-tutorial)
+- [3. References](#3-references)
+- [4. Appendix: Setup for New Developers](#4-appendix-setup-for-new-developers)
 
 <!-- TOC end -->
 
 <!-- TOC --><a name="1-introduction"></a>
 ## 1. Introduction
-The models developed in the `classification.ipynb` explore classifying numbers from the [MNIST database](https://en.wikipedia.org/wiki/MNIST_database), a large database of handwritten digits that are commonly used for training various image processing systems. The database has been used so often it is sometimes called the "hello world" of machine learning classification.
+The models developed in [`classification.ipynb`](notebooks/classification.ipynb) explore classifying numbers from the [MNIST database](https://en.wikipedia.org/wiki/MNIST_database), a large database of handwritten digits that are commonly used for training various image processing systems. The database has been used so often it is sometimes called the ["hello world"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) of machine learning classification.
 
 <!-- TOC --><a name="2-figures-created-in-the-tutorial"></a>
 ## 2. Figures Created in the Tutorial
@@ -72,7 +74,7 @@ Data science insights are derived through visualizations. Below, you can see som
 
 <!-- TOC --><a name="4-appendix-setup-for-new-developers"></a>
 ## 4. Appendix: Setup for New Developers
-If you are fairly new to Python programming, I'd recommend the setting up this project by following these steps. If you want more in depth knowledge about environment setup, I'd recommend you read [my tutorial on interfacing with the computer like a software developer](https://github.com/cemenenkoff/python-essentials-for-stem-wizards).
+If you are fairly new to Python programming, I'd recommend the setting up this project by following these steps. If you want more in-depth knowledge about environment setup, I'd recommend you read [my tutorial on interfacing with the computer like a software developer](https://github.com/cemenenkoff/python-essentials-for-stem-wizards).
 
 1. Download and install [VS Code](https://code.visualstudio.com/download).
 
@@ -96,7 +98,7 @@ If you are fairly new to Python programming, I'd recommend the setting up this p
 
 11. Run `python -m virtualenv <myenvname> --python=python3.12.4` to create a virtual environment that runs on Python 3.12.4.
 
-12. Activate the virtual environment with `source <myenvname>/bin/activate`.
+12. Activate the virtual environment with `source <myenvname>/Scripts/activate`.
 
 13. You should see `(<myenvname>)` two lines above the terminal input line when the environment is active.
 
