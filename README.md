@@ -92,7 +92,7 @@ If you are fairly new to Python programming, I'd recommend the setting up this p
 
 8. Open this repository (i.e. the `ml-classification` folder) as the current workspace folder with `Ctrl` + `K` `Ctrl` + `O`.
 
-9.  Make sure the terminal path points to the `qsnake` folder, and if it doesn't, navigate there via `cd <path_to_ml_classification_folder>`. You can confirm you're in the right spot with quick `ls -la` command.
+9.  Make sure the terminal path points to the `ml-classification` folder, and if it doesn't, navigate there via `cd <path_to_ml_classification_folder>`. You can confirm you're in the right spot with quick `ls -la` command.
 
 10. From the terminal, run `pip install virtualenv` to install the `virtualenv` module.
 
